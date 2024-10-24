@@ -1,0 +1,14 @@
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\bin\Debug\net8.0\vezbaSaFormamaTeze.exe
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\bin\Debug\net8.0\vezbaSaFormamaTeze.deps.json
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\bin\Debug\net8.0\vezbaSaFormamaTeze.runtimeconfig.json
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\bin\Debug\net8.0\vezbaSaFormamaTeze.dll
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\bin\Debug\net8.0\vezbaSaFormamaTeze.pdb
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\obj\Debug\net8.0\vezbaSaFormamaTeze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\obj\Debug\net8.0\vezbaSaFormamaTeze.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\obj\Debug\net8.0\vezbaSaFormamaTeze.AssemblyInfo.cs
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\obj\Debug\net8.0\vezbaSaFormamaTeze.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\obj\Debug\net8.0\vezbaSaFormamaTeze.dll
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\obj\Debug\net8.0\refint\vezbaSaFormamaTeze.dll
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\obj\Debug\net8.0\vezbaSaFormamaTeze.pdb
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\obj\Debug\net8.0\vezbaSaFormamaTeze.genruntimeconfig.cache
+C:\Users\Igor\source\repos\vezbaSaFormamaTeze\obj\Debug\net8.0\ref\vezbaSaFormamaTeze.dll
